@@ -6,7 +6,9 @@ Repo,
 This is
 a Repo...
 
-Let's commit to this
+Let's commit to this!
+It will be fun!
+I promise!
 Repo!
 
 Repo!
